@@ -34,7 +34,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #00ffea;
-    background: image-url(../assets/couple.jpeg) no-repeat center center;
+    background: url(../assets/couple.jpeg) no-repeat center center;
     background-size: cover;
 }
 
