@@ -1,0 +1,26 @@
+#mySearch {
+	border: 1px solid #000000;
+	font-size: 16px;
+	padding: 10px;
+	outline: none;
+	width: 500px;
+	-webkit-border-top-left-radius: 10px;
+	-webkit-border-bottom-left-radius: 10px;
+
+
+}
+
+#searchBtn {
+	border: 1px solid #000000;
+	font-size: 16px;
+	padding: 10px;
+	background: #00cccc;
+	outline: none;
+	font-weight: bold;
+	cursor: pointer;
+	-webkit-border-top-right-radius: 10px;
+	-webkit-border-bottom-right-radius: 10px;
+
+
+	
+}
